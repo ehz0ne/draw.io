@@ -1,1 +1,109 @@
-<mxfile host="www.draw.io" modified="2020-02-25T08:34:10.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="g4rVbG2UhVbcF9PiEG8i" version="12.7.4" type="github"><diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">5ZpPk5sgFMA/jcfuiOAfjt3sdjud6faQzvRMlaizRjLEbJJ++pKIiYhOPGyEZL1EH08gv/d4PEAHzpa7F05W2U+W0MLx3GTnwCfH8wBEUPwcJPtaEkZRLUh5nkils2Ce/6NS6ErpJk/oWlGsGCuqfKUKY1aWNK5qmXyXcM62qtqCFWqrK5JSTTCPSdFIH/yz/E+eVJmUgwCfC77TPM1k45EX1gV/SfyWcrYpZYuOBxfHqy5ekqYu2d11RhK2bYngswNnnLGqvlvuZrQ40G3ANe9V+6a3DnzMqmUhHoC4PRZ/G3gZjHlZ/DlOS4XqUH2h5PROio2s8DdZvwmJ3hIp8rQUtwVdiLof1xVnb3TGCsaP5XB2vC71R9b7TnlFdy2R7N8LZUta8b1QkaUeDh/c1iVdU3omQPgBt65QmnF7NjoEHZVaI2tZ33OVJlyApC9KP0xPvTqzFDcSZz/ayB1C61mEVoUZqhw8qMNs/FfF9wG4Bj0R2oMrUBwJq/DwGHiKCrgOSjzoeeg2UIp5ROGEfGMoB73StwelGh8DFSVUOQXRxfiIroMSuINuGdwIS19l6V+ea67E0hsi+UqWVINZ02vSoAOqBSuruVRwrz+tQHe6eSQIY+wi5BHXxQvo4y9ehG/d70Jb/E6HOzzX3ApcbDFcoMG1BWoAOmPc18c4mnCMQ43Uj02xNx4KNUw9oTCcjhLSKH3dpOYhRVZB0lO+OV1VximFvlWUAo3Sr9g8pNM2jh2QQg3SK3s3D2lEfjYhpEiD9ERj45BwYBMkrGf8GiFbMoHQaCaA9UzAWlLYLCk9G7CV1OlgwRApPSWwllRPmJqSlJ4WWEvK7IoF67mBtaQMR3Q9QbCWlOGIru90aaS2WV7R+YrEh+ctJysVippmHU4XF3lR9JFMOUlyga4pK1lJm6ysPhAGSDw3lomFKuV9tpEHAB+TtSH1eNCPdIOcJpOrGwT2bHl/MoNEzYjYd0ZDyyAATWeQETtq920Q4MKORZBukckWNrA5DP+8Bunu6/SkJVNGrBHLp/u2R3c3si+jnjJijVilfTKDGB4hIxaD922Q7iZr3/pgyhEyYs153wbp7lX2LUM+aEoXj+dvG49lrU9I4fN/</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-25T08:59:50.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="AOrms9ZsaF0UnDQtsc_t" version="12.7.4" type="github">
+  <diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">
+    <mxGraphModel dx="806" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="75" value="1 对叉车维修保养情况审计" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297.0000000000003" y="149.99999999999977" width="319.9999999999997" height="20.000000000000014" as="geometry" />
+        </mxCell>
+        <mxCell id="80" value="2 烟宁珠内部对比叉车效率问题" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297" y="170.00000000000023" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="85" value="3 远程与华鲁恒升和上东金岭交流" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="296.9999999999999" y="190.00000000000023" width="320.0000000000001" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="4 粗略测算工业园发运成本，并撰写第一版审计报告" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="296.9999999999999" y="210.00000000000045" width="320.0000000000001" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95" value="5 深入现场调研各装置包装发运情况及沟通" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297.0000000000006" y="230.00000000000068" width="319.9999999999994" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="100" value="6 对标，去华鲁恒升和山东金岭现场考察学习叉车管理" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297.0000000000006" y="250.00000000000057" width="319.9999999999994" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Task Name" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297" y="130" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-289" value="7 出具工业园主产品包装发运成本及优化表格" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297.0000000000006" y="270.00000000000057" width="319.9999999999994" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-290" value="8 推动并协助设备部出具叉车精益改善项目放哪" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="297.0000000000006" y="290.00000000000057" width="319.9999999999994" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-291" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="150" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-283" value="July" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-284" value="Aug" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="687" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-285" value="Sept" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="757" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-286" value="Oct" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="827" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-287" value="Nov" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="897" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-288" value="Dec" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="967" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-292" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="170" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-293" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="190" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-294" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="210" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-295" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="230" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-296" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="250" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-297" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="270" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-298" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="617" y="290" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-299" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="943" y="580" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-300" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="890" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-301" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="440" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-302" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="757" y="50" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-303" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="680" y="150" width="116" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-304" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="760" y="170" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-305" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="780" y="190" width="47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67c90442a009f359-306" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="967" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rAFp9aHErvDKJdmU2VEF-100" value="9 完成终版审计报告" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.0000000000006" y="310.00000000000057" width="319.9999999999994" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rAFp9aHErvDKJdmU2VEF-101" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="310" width="420" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
